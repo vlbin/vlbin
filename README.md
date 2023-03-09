@@ -1,5 +1,4 @@
 ### 👋
 
-🌍 gothenburg, sweden  
-🎓 software engineering @ chalmers '24  
-⚡ love working in typescript & react
+i live in gothenburg, sweden
+currently studying software engineering @ chalmers '24
