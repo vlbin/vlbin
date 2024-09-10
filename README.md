@@ -1,4 +1,3 @@
 ### 👋
 
-i live in gothenburg, sweden  
-currently studying software engineering @ chalmers '24
+software engineer living in gothenburg, sweden  
