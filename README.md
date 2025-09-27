@@ -1,3 +1,3 @@
 ### 👋
 
-software engineer living in gothenburg, sweden  
+software engineer from sweden  
